@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoraTask</string>
+    <string name="no_message">no message</string>
+    <string name="yes">yes</string>
+</resources>
